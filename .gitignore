@@ -8,3 +8,5 @@ styles.min.css
 node_modules/
 output.txt
 config.json
+/tools/installed
+/tools/proj.txt

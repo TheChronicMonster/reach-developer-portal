@@ -4,6 +4,7 @@ menuItem: mi-docs
 
 # Coin Flipper
 
+<<<<<<< HEAD
 # Introduction
 
 This tutorial walks you through how to build a command-line version of a decentralized application (DApp) that simulates a Coin Flip and allows two players to bet if the result will be heads or tails. 
@@ -550,3 +551,6 @@ Flipper went from 10 to 14.996.
 ```
 
 Flipper didn't do as well once we began to wager our coin flips. Some people get nervous once crypto is involved. 
+=======
+<span style="color:red;">Under Construction</span>
+>>>>>>> ed083b737346f3469102bcc8cfc18e5811693585
